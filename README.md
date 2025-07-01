@@ -9,6 +9,7 @@
 | [Partner Integration Foundations Practice Project Code](https://github.com/Cloudinary-Partner-Enablement/integration-foundations-practice-project) | Practice Project |
 | [Partner Implementation Foundations Practice Project Code](https://github.com/Cloudinary-Partner-Enablement/implementation-foundations-practice-project) | Practice Project |
 | [Partner Implementation Advanced Practice Project Code](https://github.com/Cloudinary-Partner-Enablement/implementation-advanced-practice-project) | Practice Project |
+| [DAM Implementation - Upload Practice](https://github.com/Cloudinary-Partner-Enablement/DAM-implementation-upload) | Practice Project |
 
 ## VILT Repositories
 
